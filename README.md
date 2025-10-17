@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/24ced78d-c708-4823-9cb3-41831a940bf5" alt="AI Developer Banner" width="100%">
+  <img src="https://github.com/user-attachments/assets/5ac8f84c-0356-4ffc-b051-9b8cf674f7c9" alt="AI Developer Banner" width="100%">
 </p>
 
 <h1 align="center">👋 Hi, I'm Tomas</h1>
@@ -40,7 +40,7 @@
 ## 💡 Edge Computing
 **NVIDIA Jetson Thor**  
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d716a301-e40f-432a-8c17-33e6b849da3b" alt="NVIDIA Jetson Thor" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/d0baf0c0-3624-4492-b17a-86720eca9ca1" alt="NVIDIA Jetson Thor" width="100%"/>
 </p>
 
 ---
@@ -64,11 +64,10 @@
 
 ## 🖼️ AI Agent Use Case
 <p align="center">
-  <img alt="AI Agent Use Case" src="https://github.com/user-attachments/assets/ae6168c3-78a8-4829-829d-640a3ffad365" width="100%"/>
+  <img alt="AI Agent Use Case" src="https://github.com/user-attachments/assets/327fe3a5-c8a6-4664-8c82-bcc34276ea6a" width="100%"/>
 </p>
 
 ---
-
 
 ⭐ **What exactly are you working on?**  
 Let me know!
