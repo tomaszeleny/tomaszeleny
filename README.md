@@ -8,7 +8,7 @@
 
 ---
 
-### 🔭 Currently Planning My Next Projects
+### 🔭 Currently Planning My Next Project
 📫 How to reach me: **+41 44 589 7012**  
 
 ---
@@ -29,11 +29,15 @@
 > Microservices & API Management, Networking, Security, Agile, Scrum, Automated Testing, and Cloud-Native Development.
 
 ---
-
 ## 💻 Languages and Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,bash,cpp,cs,python,pytorch,java,javascript,nodejs,php,go,rust,mysql,postgresql,mongodb,sqlite,redis,git,linux,docker,kubernetes,terraform,grafana,prometheus,jenkins,figma,tailwind&perline=10" />
 </p>
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/94666d79-8f64-4132-aad9-5d77814ce6a7" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/75af8845-9321-4e27-ad91-623e2c485e52" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/3064af66-d64d-4e6b-aaee-ba1adddff18f" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/1977c947-413a-4ba0-95a8-a3ef80a534a7" />
+
 
 ---
 
