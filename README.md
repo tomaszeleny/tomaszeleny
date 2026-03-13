@@ -26,7 +26,7 @@
 > Continuous Integration/Deployment (CI/CD), Docker, Kubernetes, Terraform, Ansible, CloudFormation,  
 > AWS, Azure, Google Cloud Platform (GCP), Linux/Unix Administration, Scripting (Python, Bash, Shell, PowerShell),  
 > Git, Jenkins, GitLab CI, Bamboo, Prometheus, Grafana, ELK Stack, Datadog, Chef, Puppet, SaltStack,  
-> Microservices & API Management, Networking, Security, Agile, Scrum, Automated Testing, and Cloud-Native Development,
+> Microservices & API Management, Networking, Security, Agile, Scrum, Automated Testing, and Cloud-Native Development,  
 > Scikit-learn, NumPy, Pandas, Databrics
 
 ---
